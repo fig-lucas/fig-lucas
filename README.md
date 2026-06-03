@@ -1,4 +1,4 @@
-#Lucas Figueiredo 👋
+Lucas Figueiredo 👋
 
 - 🎓 Estudante de **Ciência da Computação**
 
