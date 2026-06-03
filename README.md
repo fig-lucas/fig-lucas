@@ -1,6 +1,5 @@
 #Lucas Figueiredo 👋
 
-### 🙋‍♂️ Sobre mim
 - 🎓 Estudante de **Ciência da Computação**
 
 ## ✉️ Contato
